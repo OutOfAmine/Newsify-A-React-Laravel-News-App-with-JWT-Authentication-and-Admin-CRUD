@@ -1,0 +1,12 @@
+-Le nom complet : Mohamed amine el jerrary
+-Adresse mail : jerrary.contact@gmail.com
+Remarques : 
+-L'application que j'ai développée repose sur React pour la partie front-end et Laravel pour le back-end. 
+-J'ai fait usage d'Axios pour gérer les appels aux API. 
+-Le design est volontairement sobre, car mon principal focus était la conception du back-end, la structuration des données, et la mise en place des routes.
+
+-J'ai pris soin d'inclure des commentaires pour chaque fonction et action dans le code de l'application, ce qui facilite grandement la compréhension du code, tant pour moi que pour d'autres développeurs qui pourraient rejoindre le projet. 
+La documentation est un élément clé pour garantir la maintenabilité à long terme.
+
+-Je consacre tous mes efforts de manière honnête à ce projet, et j'espère que cela se reflètera positivement dans mon profil, notamment en ce qui concerne mon classement. 
+-Je tiens à vous remercier pour cette opportunité, et je suis reconnaissant de pouvoir contribuer au monde du développement.
